@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Primary Colors for Night Mode -->
+    <color name="colorPrimary">#FF5722</color> <!-- Darker Orange -->
+    <color name="colorPrimaryVariant">#D84315</color> <!-- Darker Orange -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- White on Primary -->
+
+    <!-- Secondary Colors for Night Mode -->
+    <color name="colorSecondary">#1976D2</color> <!-- Blue -->
+    <color name="colorSecondaryVariant">#1565C0</color> <!-- Darker Blue -->
+    <color name="colorOnSecondary">#FFFFFF</color> <!-- White on Secondary -->
+
+    <!-- Background and Surface Colors for Night Mode -->
+    <color name="colorBackground">#121212</color> <!-- Dark Background -->
+    <color name="colorSurface">#121212</color> <!-- Dark Surface -->
+    <color name="colorOnBackground">#FFFFFF</color> <!-- White on Background -->
+    <color name="colorOnSurface">#FFFFFF</color> <!-- White on Surface -->
+
+    <!-- Error Colors for Night Mode -->
+    <color name="colorError">#F44336</color> <!-- Red -->
+    <color name="colorOnError">#FFFFFF</color> <!-- White on Error -->
+
+    <!-- Text Colors for Night Mode -->
+    <color name="textPrimary">#FFFFFF</color> <!-- White Text -->
+    <color name="textSecondary">#B0B0B0</color> <!-- Light Grey Text -->
+
+</resources>

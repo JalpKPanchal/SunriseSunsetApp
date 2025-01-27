@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- Light Theme Colors -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#03DAC6</color>
+    <color name="colorSecondaryVariant">#018786</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnBackground">#000000</color>
+    <color name="colorOnSurface">#000000</color>
+    <color name="colorError">#B00020</color>
+    <color name="colorOnError">#FFFFFF</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="dark_colorPrimary">#BB86FC</color>
+    <color name="dark_colorPrimaryVariant">#3700B3</color>
+    <color name="dark_colorOnPrimary">#000000</color>
+    <color name="dark_colorSecondary">#03DAC6</color>
+    <color name="dark_colorSecondaryVariant">#03DAC6</color>
+    <color name="dark_colorOnSecondary">#000000</color>
+    <color name="dark_colorBackground">#121212</color>
+    <color name="dark_colorSurface">#121212</color>
+    <color name="dark_colorOnBackground">#FFFFFF</color>
+    <color name="dark_colorOnSurface">#FFFFFF</color>
+    <color name="dark_colorError">#CF6679</color>
+    <color name="dark_colorOnError">#000000</color>
+    <color name="dark_textPrimary">#FFFFFF</color>
+    <color name="dark_textSecondary">#B3B3B3</color>
+
+    <!-- Custom Colors -->
+    <color name="background_color">#F5F5F5</color>
+    <color name="primary_text_color">#212121</color>
+    <color name="secondary_text_color">#757575</color>
+</resources>
