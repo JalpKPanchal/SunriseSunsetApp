@@ -122,8 +122,8 @@ public class MainActivity extends AppCompatActivity {
         Log.i("Havan", "Latitude: " + latitude + ", Longitude: " + longitude);
 
         // Build API URL with latitude and longitude
-        String url = "https://api.sunrisesunset.io/json?lat=" + latitude + "&lng=" + longitude + "&timezone=UTC";
-
+//        String url = "https://api.sunrisesunset.io/json?lat=" + latitude + "&lng=" + longitude + "&timezone=UTC";
+        String url = "https://api.sunrisesunset.io/json?lat=" + latitude + "&lng=" + longitude;
         OkHttpClient client = new OkHttpClient();
         Request request = new Request.Builder()
                 .url(url)
